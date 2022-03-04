@@ -7,7 +7,7 @@ Find me at: </br></br>
 
 [<img align="left" alt="Globe Logo" height="48" widht="48" src="https://github.com/iconic/open-iconic/blob/master/svg/globe.svg"/>](https://www.kelvinandrew.com)
 [<img align="left" alt="Twitter Logo" height="48" widht="48" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_32.png"/>](https://twitter.com/KelvinATech)
-[<img align="left" alt="Linkedin Logo" height="48" widht="48" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](www.linkedin.com/in/kelvin-andrew-tech)
+[<img align="left" alt="Linkedin Logo" height="48" widht="48" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/kelvin-andrew-tech)
 </br></br>
 
 Proficiencies: </br></br>
